@@ -13,12 +13,14 @@ ul.navbar {
     position: absolute;
     top: 2em;
     left: 1em;
-    width: 9em
+    width: 9em;
+    font-family:Adobe Gothic Std B,serif;
+    text-align:center；
+
 }
 
 h1 {
-    font-family: Helvetica, Geneva, Arial,
-    SunSans-Regular, sans-serif
+    font-family: Gabriola,serif;
 }
 
 ul.navbar li {
@@ -33,11 +35,11 @@ ul.navbar a {
 }
 
 a:link {
-    color: blue
+    color: rgb(134, 134, 134)
 }
 
 a:visited {
-    color: purple
+    color: rgb(0, 0, 0)
 }
 
 address {
